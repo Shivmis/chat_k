@@ -24,10 +24,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("Meetupzone_Chatting")
-                await self.one.join_chat("Meetupzone_Chatting")
-                await self.one.join_chat("Meetupzone_Chatting")
-                await self.one.join_chat("Meetupzone_Chatting")
+                await self.one.join_chat("FORENSICXWORLD")
+                await self.one.join_chat("Anime_Multiverse_Hindi")
+                await self.one.join_chat("shivang_xd")
+                await self.one.join_chat("stickers_Channell")
 
             except:
                 pass
